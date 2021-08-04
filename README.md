@@ -8,7 +8,7 @@ Eyes that follow
 > Version 0.1
 
 
-## Project Name: Eues that follow
+## Project Name: Eyes that follow
 
 ## Description:
 The Eyes that fallow you.<br />Move the mouse around. Try to escape if you can!
